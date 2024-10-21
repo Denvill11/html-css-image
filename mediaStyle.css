@@ -1,0 +1,14 @@
+@media (max-width: 720px) {
+  .main-why__our-feature {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 0;
+  }
+}
+
+@media (max-width: 1400px) {
+  .main-hero__hero {
+    margin-top: 100px;
+  }
+}
